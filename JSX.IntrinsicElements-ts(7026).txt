@@ -1,0 +1,6 @@
+JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists.ts(7026)
+
+Solution:
+npm i -save -D @types/react
+
+yarn add --dev @types/react
