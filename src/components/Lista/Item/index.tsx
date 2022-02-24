@@ -1,4 +1,3 @@
-import { setupMaster } from "cluster";
 import { ITarefa } from "../../../types/tarefa";
 import style from "./Item.module.scss";
 
