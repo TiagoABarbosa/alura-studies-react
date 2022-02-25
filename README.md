@@ -20,6 +20,6 @@ Curso Alura - **Fundamentos de React: escrevendo com Typescript**
  [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
 ## Link do Projeto:
-[Netlify] (https://studies-react.netlify.app/) <p>
+[Netlify] (https://studies-react.netlify.app) <p>
 
 <img src="https://github.com/TiagoABarbosa/alura-studies-react/blob/main/Screenshot.jpg?raw=true" width="600">
