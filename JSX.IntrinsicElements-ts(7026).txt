@@ -4,3 +4,5 @@ Solution:
 npm i -save -D @types/react
 
 yarn add --dev @types/react
+
+Erro
